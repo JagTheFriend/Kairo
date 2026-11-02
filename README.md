@@ -4,6 +4,8 @@ A curated event calendar built with React, TypeScript, and Tailwind CSS. Browse 
 
 The design is deliberately editorial: warm paper tones, large serif headings, ruled sections, and restrained motion instead of the usual gradient-and-glass event template.
 
+![Kairo home page](docs/preview.png)
+
 ## Live demo
 
 Deployment is configured for Vercel and Netlify. Add the final URL here once the project is deployed.
